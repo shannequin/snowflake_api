@@ -219,4 +219,4 @@ __marimo__/
 data
 
 # API Keys
-api_keys.json
+config.json
